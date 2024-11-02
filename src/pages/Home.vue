@@ -8,7 +8,7 @@
       JavaScript, React.js, and Vue.js. Looking for challenging opportunities to
       leverage skills as a Senior Frontend Developer.
     </p>
-    <router-link to="/projects" class="text-blue-500 underline"
+    <router-link to="/vue_portfolio/projects" class="text-blue-500 underline"
       >See My Projects</router-link
     >
   </div>
