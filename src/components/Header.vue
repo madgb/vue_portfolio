@@ -5,15 +5,15 @@
       <h1 class="text-2xl font-semibold">Woobin Huh's Portfolio</h1>
       <ul class="flex space-x-4">
         <li>
-          <router-link to="/" class="hover:text-gray-300">Home</router-link>
+          <router-link to="/vue_portfolio/" class="hover:text-gray-300">Home</router-link>
         </li>
         <li>
-          <router-link to="/projects" class="hover:text-gray-300"
+          <router-link to="/vue_portfolio/projects" class="hover:text-gray-300"
             >Projects</router-link
           >
         </li>
         <li>
-          <router-link to="/tech-stack" class="hover:text-gray-300"
+          <router-link to="/vue_portfolio/tech-stack" class="hover:text-gray-300"
             >Tech Stack</router-link
           >
         </li>

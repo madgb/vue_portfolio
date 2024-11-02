@@ -7,23 +7,23 @@ import TechStack from '@/pages/TechStack.vue'
 
 const routes = [
   {
-    path: '/',
+    path: '/vue_portfolio',
     name: 'Home',
     component: Home,
   },
   {
-    path: '/projects',
+    path: '/vue_portfolio/projects',
     name: 'Projects',
     component: Projects,
   },
   {
-    path: '/projects/:id',
+    path: '/vue_portfolio/projects/:id',
     name: 'ProjectDetail',
     component: ProjectDetail,
     props: true,
   },
   {
-    path: '/tech-stack',
+    path: '/vue_portfolio/tech-stack',
     name: 'TechStack',
     component: TechStack,
   },
