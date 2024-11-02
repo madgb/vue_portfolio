@@ -12,6 +12,7 @@ export default defineConfig({
     vueJsx(),
     vueDevTools(),
   ],
+  base: '/vue_portfolio/',
   build: {
     outDir: 'docs',
   },
