@@ -4,7 +4,7 @@
     <h2 class="text-3xl font-semibold mb-4">Projects</h2>
     <div v-for="project in projects" :key="project.id" class="mb-4">
       <router-link
-        :to="`/projects/${project.id}`"
+        :to="`/vue_portfolio/projects/${project.id}`"
         class="text-blue-500 underline"
       >
         <h3 class="text-2xl">{{ project.name }}</h3>
