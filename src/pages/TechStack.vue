@@ -39,11 +39,10 @@
         </p>
       </li>
       <li>
-        <h3 class="text-2xl font-semibold">GitHub Pages / Heroku</h3>
+        <h3 class="text-2xl font-semibold">GitHub Pages</h3>
         <p>
           The site is deployed on GitHub Pages for a fast, reliable, and free
-          hosting solution for static sites. Heroku is used for projects that
-          require backend functionality, showcasing dynamic data management.
+          hosting solution for static sites.
         </p>
       </li>
     </ul>
